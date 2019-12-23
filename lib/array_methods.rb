@@ -1,11 +1,11 @@
 # def using_include(array, element)
 array_element = ["A", "B", "C"]
-array.include?("A")
+array.element.include?("D")
 array_element.sort
 array_element.reverse
 array_element.first
 array_element.last
-array_element.size  
+array_element.size
 #
 # def using_sort(array)
 #
