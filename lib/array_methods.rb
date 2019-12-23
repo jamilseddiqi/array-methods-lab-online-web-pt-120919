@@ -1,4 +1,4 @@
-def using_include(array_element)
+def using_include(array, element)
 array_element.element.include?(element)
 end 
 
